@@ -1,4 +1,4 @@
-var map = L.map('mapid').setView([49.607123, 34.511726], 16);
+var map = L.map('mapid').setView([49.591978, 34.570327], 15);
 
 var spiderbee = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
     maxZoom: 18,

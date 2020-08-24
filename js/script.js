@@ -1,4 +1,4 @@
-var map = L.map('mapid').setView([49.590294, 34.551315], 10);
+var map = L.map('mapid').setView([49.607123, 34.511726], 16);
 
 var spiderbee = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
     maxZoom: 18,
@@ -15,9 +15,9 @@ var spiderbee = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
 // add your own pin
 var teardrop = L.icon({
     iconUrl: 'images/marker-icon_red-1.png',
-    iconSize: [19,29],
-    iconAnchor: [8,29],
-    popupAnchor: [0, -25],
+    iconSize: [19, 29],
+    iconAnchor: [8, 29],
+    popupAnchor: [1, -25],
     //shadowUrl: 'my-icon-shadow.png',
     //shadowSize: [68, 95],
     //shadowAnchor: [22, 94]
@@ -30,7 +30,7 @@ function styleGeoJson(feature, layer) {
     if (feature.properties && feature.properties.popupContent) {
         popupContent += feature.properties.popupContent;
     }
-    
+
     // call popup
     layer.bindPopup(popupContent);
     //call custom pins
@@ -40,10 +40,10 @@ function styleGeoJson(feature, layer) {
 
 //for each feature for servants run the function define above - styleGeoJson
 L.geoJson(servants, {
-    onEachFeature: styleGeoJson,
-     
-})
-.addTo(map);
+        onEachFeature: styleGeoJson,
+
+    })
+    .addTo(map);
 
 
 // var place = L.marker([51.5, -0.09]).addTo(map)
@@ -65,13 +65,13 @@ L.geoJson(servants, {
 
 
 // the code bellow will help you to get any coordinates on map
-// var popup = L.popup();
+var popup = L.popup();
 
-// function onMapClick(e) {
-//     popup
-//         .setLatLng(e.latlng)
-//         .setContent("You clicked the map at " + e.latlng.toString())
-//         .openOn(map);
-// }
+function onMapClick(e) {
+    popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(map);
+}
 
-// map.on('click', onMapClick);
+map.on('click', onMapClick);

@@ -179,15 +179,15 @@ var servants = [{
             "Address": "Бульвар  Нестерова  8/11 кв.1",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.601765",
-            "geometry/coordinates/1": "34.4838486",
+            "geometry/coordinates/0": "49.601831",
+            "geometry/coordinates/1": "34.484147",
             "Activity": "сдают отчет не приходят в зал",
             "Tel": "095-540--17-50",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4838486, 49.601765],
+            "coordinates": [34.484147, 49.601831],
             "type": "Point"
         }
     },
@@ -219,14 +219,14 @@ var servants = [{
             "Address": "ул. Гожулянская 12, кв. 40",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6019712",
-            "geometry/coordinates/1": "34.4940258",
+            "geometry/coordinates/0": "49.602196",
+            "geometry/coordinates/1": "34.494152",
             "Tel": "0633539102",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4940258, 49.6019712],
+            "coordinates": [34.494152, 49.602196],
             "type": "Point"
         }
     },
@@ -291,7 +291,7 @@ var servants = [{
         "properties": {
             "Nr": "15",
             "Name": "БРА - Голуб Людмила",
-            "Address": "пер. Острсвоского 5, кв. 2",
+            "Address": "пер. Островского 5, кв. 2",
             "City": "Полтава",
             "Region": "Полтавская Область",
             "geometry/coordinates/0": "49.60056",
@@ -622,14 +622,14 @@ var servants = [{
             "Address": "ул. Сенная 32, кв. 4 ул. Латышева 8, кв. 22",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.5871744",
-            "geometry/coordinates/1": "34.5355522",
+            "geometry/coordinates/0": "49.587325",
+            "geometry/coordinates/1": "34.537808",
             "Tel": "0996441716",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5355522, 49.5871744],
+            "coordinates": [34.537808, 49.587325],
             "type": "Point"
         }
     },
@@ -642,13 +642,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "geometry/coordinates/0": "49.610388",
-            "geometry/coordinates/1": "34.5284555",
+            "geometry/coordinates/1": "34.53034",
             "Tel": "0953503999\n0933506777\n65-44-44",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5284555, 49.610388],
+            "coordinates": [34.53034, 49.610388],
             "type": "Point"
         }
     },
@@ -811,14 +811,14 @@ var servants = [{
             "Address": "ул. Петра Юрченка 3, кв. 54",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6037138",
-            "geometry/coordinates/1": "34.5008697",
+            "geometry/coordinates/0": "49.603712",
+            "geometry/coordinates/1": "34.503014",
             "Tel": "0500131028",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5008697, 49.6037138],
+            "coordinates": [34.503014, 49.603712],
             "type": "Point"
         }
     },
@@ -868,14 +868,14 @@ var servants = [{
             "Address": "пер. Спортивный 1а, кв. 80; с. Розношенцы, ул. Горбаневская 4, кв. 25",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6067057",
-            "geometry/coordinates/1": "34.5141847",
+            "geometry/coordinates/0": "49.606455",
+            "geometry/coordinates/1": "34.515771",
             "Tel": "0933810877",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5141847, 49.6067057],
+            "coordinates": [34.515771, 49.606455],
             "type": "Point"
         }
     },
@@ -887,14 +887,14 @@ var servants = [{
             "Address": "пер. Спортивный 1а, кв. 80; с. Розношенцы, ул. Горбаневская 4, кв. 25",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6067057",
-            "geometry/coordinates/1": "34.5141847",
+            "geometry/coordinates/0": "49.606486",
+            "geometry/coordinates/1": "34.515669",
             "Tel": "0935472109",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5141847, 49.6067057],
+            "coordinates": [34.515669, 49.606486],
             "type": "Point"
         }
     },
@@ -906,13 +906,13 @@ var servants = [{
             "Address": "ул.М.Бирюзова 82 кв.100",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6003288",
-            "geometry/coordinates/1": "34.4842169",
+            "geometry/coordinates/0": "49.600295",
+            "geometry/coordinates/1": "34.486449",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4842169, 49.6003288],
+            "coordinates": [34.486449, 49.600295],
             "type": "Point"
         }
     },
@@ -924,15 +924,15 @@ var servants = [{
             "Address": "ул. Баленка 8, кв. 38",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6022628",
-            "geometry/coordinates/1": "34.4948281",
+            "geometry/coordinates/0": "49.602471",
+            "geometry/coordinates/1": "34.497038",
             "Activity": "не активная",
             "Tel": "59-78-48",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4948281, 49.6022628],
+            "coordinates": [34.497038, 49.602471],
             "type": "Point"
         }
     },
@@ -983,13 +983,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "geometry/coordinates/0": "49.6110328",
-            "geometry/coordinates/1": "34.5312698",
+            "geometry/coordinates/1": "34.533629",
             "Tel": "0505850833",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5312698, 49.6110328],
+            "coordinates": [34.533629, 49.6110328],
             "type": "Point"
         }
     },
@@ -1001,14 +1001,14 @@ var servants = [{
             "Address": "пер. Стрелковый 7",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6068213",
-            "geometry/coordinates/1": "34.51371",
+            "geometry/coordinates/0": "49.606817",
+            "geometry/coordinates/1": "34.515994",
             "Tel": "0504045246",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.51371, 49.6068213],
+            "coordinates": [34.515994, 49.606817],
             "type": "Point"
         }
     },
@@ -1020,14 +1020,14 @@ var servants = [{
             "Address": "ул. Ст. Кондратенка 8, кв. 51",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.603425",
-            "geometry/coordinates/1": "34.5252114",
+            "geometry/coordinates/0": "49.603458",
+            "geometry/coordinates/1": "34.526778",
             "Tel": "0993574687",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5252114, 49.603425],
+            "coordinates": [34.526778, 49.603458],
             "type": "Point"
         }
     },
@@ -1040,13 +1040,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "geometry/coordinates/0": "49.6097561",
-            "geometry/coordinates/1": "34.5305826",
+            "geometry/coordinates/1": "34.532228",
             "Tel": "0505980641",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5305826, 49.6097561],
+            "coordinates": [34.532228, 49.6097561],
             "type": "Point"
         }
     },
@@ -1059,13 +1059,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "geometry/coordinates/0": "49.6097561",
-            "geometry/coordinates/1": "34.5305826",
+            "geometry/coordinates/1": "34.532416",
             "Tel": "0735980641\n0505980641",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5305826, 49.6097561],
+            "coordinates": [34.532416, 49.6097561],
             "type": "Point"
         }
     },
@@ -1096,14 +1096,14 @@ var servants = [{
             "Address": "ул. М. Бирюзова 82, кв. 21",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6003288",
-            "geometry/coordinates/1": "34.4842169",
+            "geometry/coordinates/0": "49.600284",
+            "geometry/coordinates/1": "34.487994",
             "Tel": "0999057563",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4842169, 49.6003288],
+            "coordinates": [34.487994, 49.600284],
             "type": "Point"
         }
     },
@@ -1228,14 +1228,14 @@ var servants = [{
             "Address": "ул. М. Бирюзова 80, кв. 30 \nул. Лученка 52, кв. 19",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6002249",
-            "geometry/coordinates/1": "34.4856558",
+            "geometry/coordinates/0": "49.600284",
+            "geometry/coordinates/1": "34.487994",
             "Tel": "0505156038 \n \n0990686306",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4856558, 49.6002249],
+            "coordinates": [34.487994, 49.600284],
             "type": "Point"
         }
     },
@@ -1437,14 +1437,14 @@ var servants = [{
             "Address": "ул. Глущенко 20, кв 5 .",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6040795",
-            "geometry/coordinates/1": "34.5035299",
+            "geometry/coordinates/0": "49.60367",
+            "geometry/coordinates/1": "34.505825",
             "Tel": "0957103321",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5035299, 49.6040795],
+            "coordinates": [34.505825, 49.60367],
             "type": "Point"
         }
     },
@@ -1494,14 +1494,14 @@ var servants = [{
             "Address": "пер. Шевченка 11а, кв. 59",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6029751",
-            "geometry/coordinates/1": "34.5052435",
+            "geometry/coordinates/0": "49.603173",
+            "geometry/coordinates/1": "34.506876",
             "Tel": "0956062918",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5052435, 49.6029751],
+            "coordinates": [34.506876, 49.603173],
             "type": "Point"
         }
     },
@@ -1513,14 +1513,14 @@ var servants = [{
             "Address": "пер. Шевченка 11а, кв. 59",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6029751",
-            "geometry/coordinates/1": "34.5052435",
+            "geometry/coordinates/0": "49.60286",
+            "geometry/coordinates/1": "34.506893",
             "Tel": "0934715316",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5052435, 49.6029751],
+            "coordinates": [34.506893, 49.6029751],
             "type": "Point"
         }
     },
@@ -1532,14 +1532,14 @@ var servants = [{
             "Address": "ул. Баленка 9, кв. 51",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.603395",
-            "geometry/coordinates/1": "34.4955515",
+            "geometry/coordinates/0": "49.60349",
+            "geometry/coordinates/1": "34.497709",
             "Tel": "0660577538",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4955515, 49.603395],
+            "coordinates": [34.497709, 49.60349],
             "type": "Point"
         }
     },
@@ -1590,14 +1590,14 @@ var servants = [{
             "Address": "пер. Заячий 1, кв. 105",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.60981",
-            "geometry/coordinates/1": "34.53286",
+            "geometry/coordinates/0": "49.607766",
+            "geometry/coordinates/1": "34.533634",
             "Tel": "0991901152",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.53286, 49.60981],
+            "coordinates": [34.533634, 49.607766],
             "type": "Point"
         }
     },
@@ -1685,14 +1685,14 @@ var servants = [{
             "Address": "ул. Петра Юрченка 3, кв. 11",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6037138",
-            "geometry/coordinates/1": "34.5008697",
+            "geometry/coordinates/0": "49.60382",
+            "geometry/coordinates/1": "34.503009",
             "Tel": "0999371267",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5008697, 49.6037138],
+            "coordinates": [34.503009, 49.60382],
             "type": "Point"
         }
     },
@@ -1742,14 +1742,14 @@ var servants = [{
             "Address": "ул. Баленка 4,кв.27",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6021388",
-            "geometry/coordinates/1": "34.4933962",
+            "geometry/coordinates/0": "49.602012",
+            "geometry/coordinates/1": "34.495482",
             "Tel": "0991811519",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4933962, 49.6021388],
+            "coordinates": [34.495482, 49.602012],
             "type": "Point"
         }
     },
@@ -1757,18 +1757,18 @@ var servants = [{
         "type": "Feature",
         "properties": {
             "Nr": "92",
-            "Name": "БРА - Уршая Юлия Александровна",
+            "Name": "БРА - Урская Юлия Александровна",
             "Address": "ул. Баленка 4,кв.27",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6021388",
-            "geometry/coordinates/1": "34.4933962",
+            "geometry/coordinates/0": "49.602276",
+            "geometry/coordinates/1": "34.495525",
             "Tel": "0999652419",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4933962, 49.6021388],
+            "coordinates": [34.495525, 49.602276],
             "type": "Point"
         }
     },
@@ -1856,14 +1856,14 @@ var servants = [{
             "Address": "ул. Гожулянская 26, кв. 118",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6031411",
-            "geometry/coordinates/1": "34.4842547",
+            "geometry/coordinates/0": "49.603222",
+            "geometry/coordinates/1": "34.486202",
             "Tel": "0508428690",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4842547, 49.6031411],
+            "coordinates": [34.486202, 49.603222],
             "type": "Point"
         }
     },
@@ -1915,14 +1915,14 @@ var servants = [{
             "Address": "ул. Чехова 10",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6155705",
-            "geometry/coordinates/1": "34.5312906",
+            "geometry/coordinates/0": "49.615534",
+            "geometry/coordinates/1": "34.533752",
             "Tel": "0934717281",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5312906, 49.6155705],
+            "coordinates": [34.533752, 49.615534],
             "type": "Point"
         }
     },
@@ -1953,14 +1953,14 @@ var servants = [{
             "Address": "пер..Стрелковый 7",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6068213",
-            "geometry/coordinates/1": "34.51371",
+            "geometry/coordinates/0": "49.606828",
+            "geometry/coordinates/1": "34.515923",
             "Tel": "050305304",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.51371, 49.6068213],
+            "coordinates": [34.515923, 49.606828],
             "type": "Point"
         }
     },
@@ -1972,14 +1972,14 @@ var servants = [{
             "Address": "М . Бирюзова, 88 кв. 24",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6004021",
-            "geometry/coordinates/1": "34.4810705",
+            "geometry/coordinates/0": "49.600469",
+            "geometry/coordinates/1": "34.483429",
             "Tel": "0963958471",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.4810705, 49.6004021],
+            "coordinates": [34.483429, 49.600469],
             "type": "Point"
         }
     },
@@ -1992,13 +1992,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36014",
-            "geometry/coordinates/0": "49.6067032",
-            "geometry/coordinates/1": "34.5130829",
+            "geometry/coordinates/0": "49.60673",
+            "geometry/coordinates/1": "34.515325",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5130829, 49.6067032],
+            "coordinates": [34.515325, 49.60673],
             "type": "Point"
         }
     },
@@ -2049,13 +2049,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36014",
-            "geometry/coordinates/0": "49.6067032",
-            "geometry/coordinates/1": "34.5130829",
+            "geometry/coordinates/0": "49.606744",
+            "geometry/coordinates/1": "34.515266",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5130829, 49.6067032],
+            "coordinates": [34.515266, 49.606744],
             "type": "Point"
         }
     },
@@ -2372,13 +2372,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36014",
-            "geometry/coordinates/0": "49.6067032",
-            "geometry/coordinates/1": "34.5130829",
+            "geometry/coordinates/0": "49.606771",
+            "geometry/coordinates/1": "34.515164",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5130829, 49.6067032],
+            "coordinates": [34.515164, 49.606771],
             "type": "Point"
         }
     },
@@ -2391,13 +2391,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36014",
-            "geometry/coordinates/0": "49.6067032",
-            "geometry/coordinates/1": "34.5130829",
+            "geometry/coordinates/0": "49.606796",
+            "geometry/coordinates/1": "34.515089",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5130829, 49.6067032],
+            "coordinates": [34.515089, 49.606796],
             "type": "Point"
         }
     },
@@ -2926,13 +2926,13 @@ var servants = [{
             "City": "с. Рыбцы/ Полтавский",
             "Region": "Полтавская Область",
             "Index": "36042",
-            "geometry/coordinates/0": "49.6067836",
-            "geometry/coordinates/1": "34.4686684",
+            "geometry/coordinates/0": "49.606552",
+            "geometry/coordinates/1": "34.470248",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.4686684, 49.6067836],
+            "coordinates": [34.470248, 49.606552],
             "type": "Point"
         }
     },
@@ -4136,13 +4136,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36014",
-            "geometry/coordinates/0": "49.6067067",
-            "geometry/coordinates/1": "34.5130829",
+            "geometry/coordinates/0": "49.606716",
+            "geometry/coordinates/1": "34.515454",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5130829, 49.6067067],
+            "coordinates": [34.515454, 49.606716],
             "type": "Point"
         }
     },
@@ -4155,13 +4155,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36014",
-            "geometry/coordinates/0": "49.6067067",
-            "geometry/coordinates/1": "34.5130829",
+            "geometry/coordinates/0": "49.606813",
+            "geometry/coordinates/1": "34.514993",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5130829, 49.6067067],
+            "coordinates": [34.514993, 49.606813],
             "type": "Point"
         }
     },
@@ -4879,13 +4879,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6039462",
-            "geometry/coordinates/1": "34.5244748",
+            "geometry/coordinates/0": "49.60391",
+            "geometry/coordinates/1": "34.526778",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5244748, 49.6039462],
+            "coordinates": [34.526778, 49.60391],
             "type": "Point"
         }
     },
@@ -4976,12 +4976,12 @@ var servants = [{
             "Region": "Полтавская Область",
             "Index": "-",
             "geometry/coordinates/0": "49.6097561",
-            "geometry/coordinates/1": "34.5305826",
+            "geometry/coordinates/1": "34.532824",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5305826, 49.6097561],
+            "coordinates": [34.532824, 49.6097561],
             "type": "Point"
         }
     },
@@ -5393,13 +5393,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6047166",
-            "geometry/coordinates/1": "34.538138",
+            "geometry/coordinates/0": "49.604543",
+            "geometry/coordinates/1": "34.539701",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.538138, 49.6047166],
+            "coordinates": [34.539701, 49.604543],
             "type": "Point"
         }
     },
@@ -5602,14 +5602,14 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6047994",
-            "geometry/coordinates/1": "34.5378735",
+            "geometry/coordinates/0": "49.603994",
+            "geometry/coordinates/1": "34.539514",
             "Activity": "редко посещает",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5378735, 49.6047994],
+            "coordinates": [34.539514, 49.603994],
             "type": "Point"
         }
     },

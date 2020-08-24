@@ -1,5 +1,4 @@
-
-var map = L.map('mapid').setView([49.590294, 34.551315], 14);
+var map = L.map('mapid').setView([49.590294, 34.551315], 11);
 
 var spiderbee = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
     maxZoom: 18,
@@ -45,18 +44,6 @@ L.geoJson(servants, {
      
 })
 .addTo(map);
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // var place = L.marker([51.5, -0.09]).addTo(map)

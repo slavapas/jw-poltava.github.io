@@ -17,7 +17,7 @@ var teardrop = L.icon({
     iconUrl: 'images/marker-icon_red-1.png',
     iconSize: [19,29],
     iconAnchor: [8,29],
-    //popupAnchor: [-3, -76],
+    popupAnchor: [0, -25],
     //shadowUrl: 'my-icon-shadow.png',
     //shadowSize: [68, 95],
     //shadowAnchor: [22, 94]

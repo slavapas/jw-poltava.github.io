@@ -734,14 +734,14 @@ var servants = [{
             "Address": "ул. Шведская 18, кв. 41",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.599184",
-            "geometry/coordinates/1": "34.5363684",
+            "geometry/coordinates/0": "49.599359",
+            "geometry/coordinates/1": "34.538634",
             "Tel": "0501366803\n7-39-68",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5363684, 49.599184],
+            "coordinates": [34.538634, 49.599359],
             "type": "Point"
         }
     },
@@ -791,15 +791,15 @@ var servants = [{
             "Address": "ул. Медицинская 7, кв. 3",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6379932",
-            "geometry/coordinates/1": "34.5360025",
+            "geometry/coordinates/0": "49.638038",
+            "geometry/coordinates/1": "34.538301",
             "Activity": "не посещает зал отчеты сдает",
             "Tel": "0507713970",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5360025, 49.6379932],
+            "coordinates": [34.538301, 49.638038],
             "type": "Point"
         }
     },
@@ -2526,13 +2526,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36000",
-            "geometry/coordinates/0": "49.5880553",
-            "geometry/coordinates/1": "34.5574721",
+            "geometry/coordinates/0": "49.588032",
+            "geometry/coordinates/1": "34.559733",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5574721, 49.5880553],
+            "coordinates": [34.559733, 49.588032],
             "type": "Point"
         }
     },
@@ -2545,13 +2545,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36000",
-            "geometry/coordinates/0": "49.5880553",
-            "geometry/coordinates/1": "34.5574721",
+            "geometry/coordinates/0": "49.588027",
+            "geometry/coordinates/1": "34.559678",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5574721, 49.5880553],
+            "coordinates": [34.559678, 49.588027],
             "type": "Point"
         }
     },
@@ -3175,17 +3175,17 @@ var servants = [{
         "properties": {
             "Nr": "166",
             "Name": "ЦТР - Кущ Ирина Николаевна",
-            "Address": "улица Покровская, 33",
+            "Address": "улица Покровская, 33",    
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36003",
-            "geometry/coordinates/0": "49.5996578",
-            "geometry/coordinates/1": "34.542354",
+            "geometry/coordinates/0": "49.599721",
+            "geometry/coordinates/1": "34.544517",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.542354, 49.5996578],
+            "coordinates": [34.544517, 49.599721],
             "type": "Point"
         }
     },
@@ -3429,13 +3429,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36000",
-            "geometry/coordinates/0": "49.6000877",
-            "geometry/coordinates/1": "34.5662109",
+            "geometry/coordinates/0": "49.600091",
+            "geometry/coordinates/1": "34.568322",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5662109, 49.6000877],
+            "coordinates": [34.568322, 49.600091],
             "type": "Point"
         }
     },
@@ -4174,13 +4174,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36003",
-            "geometry/coordinates/0": "49.5978297",
-            "geometry/coordinates/1": "34.563344",
+            "geometry/coordinates/0": "49.597934",
+            "geometry/coordinates/1": "34.564818",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.563344, 49.5978297],
+            "coordinates": [34.564818, 49.597934],
             "type": "Point"
         }
     },
@@ -4442,13 +4442,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36003",
-            "geometry/coordinates/0": "49.5958919",
-            "geometry/coordinates/1": "34.5428902",
+            "geometry/coordinates/0": "49.595622",
+            "geometry/coordinates/1": "34.545157",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.5428902, 49.5958919],
+            "coordinates": [34.545157, 49.595622],
             "type": "Point"
         }
     },
@@ -5507,13 +5507,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6010651",
-            "geometry/coordinates/1": "34.5635695",
+            "geometry/coordinates/0": "49.601049",
+            "geometry/coordinates/1": "34.565764",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5635695, 49.6010651],
+            "coordinates": [34.565764, 49.601049],
             "type": "Point"
         }
     },
@@ -5526,13 +5526,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6010651",
-            "geometry/coordinates/1": "34.5635695",
+            "geometry/coordinates/0": "49.600969",
+            "geometry/coordinates/1": "34.565681",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5635695, 49.6010651],
+            "coordinates": [34.565681, 49.600969],
             "type": "Point"
         }
     },
@@ -5850,13 +5850,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5913395",
-            "geometry/coordinates/1": "34.5702437",
+            "geometry/coordinates/0": "49.591346",
+            "geometry/coordinates/1": "34.572451",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5702437, 49.5913395],
+            "coordinates": [34.572451, 49.591346],
             "type": "Point"
         }
     },
@@ -5869,13 +5869,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5913395",
-            "geometry/coordinates/1": "34.5702437",
+            "geometry/coordinates/0": "49.591306",
+            "geometry/coordinates/1": "34.572371",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5702437, 49.5913395],
+            "coordinates": [34.572371, 49.591306],
             "type": "Point"
         }
     },
@@ -5907,13 +5907,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5973203",
-            "geometry/coordinates/1": "34.5549478",
+            "geometry/coordinates/0": "49.596484",
+            "geometry/coordinates/1": "34.556444",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5549478, 49.5973203],
+            "coordinates": [34.556444, 49.596484],
             "type": "Point"
         }
     },
@@ -5926,13 +5926,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5878663",
-            "geometry/coordinates/1": "34.5751737",
+            "geometry/coordinates/0": "49.587893",
+            "geometry/coordinates/1": "34.577393",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5751737, 49.5878663],
+            "coordinates": [34.577393, 49.587893],
             "type": "Point"
         }
     },
@@ -6021,13 +6021,13 @@ var servants = [{
             "City": "Поселок Воронина",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5940578",
-            "geometry/coordinates/1": "34.5783911",
+            "geometry/coordinates/0": "49.594054",
+            "geometry/coordinates/1": "34.580600",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5783911, 49.5940578],
+            "coordinates": [34.580600, 49.594054],
             "type": "Point"
         }
     },
@@ -6040,13 +6040,13 @@ var servants = [{
             "City": "Поселок Воронина",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5940578",
-            "geometry/coordinates/1": "34.5783911",
+            "geometry/coordinates/0": "49.59413",
+            "geometry/coordinates/1": "34.580551",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5783911, 49.5940578],
+            "coordinates": [34.580551, 49.59413],
             "type": "Point"
         }
     },
@@ -6078,13 +6078,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6171207",
-            "geometry/coordinates/1": "34.573745",
+            "geometry/coordinates/0": "49.617133",
+            "geometry/coordinates/1": "34.576217",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.573745, 49.6171207],
+            "coordinates": [34.576217, 49.617133],
             "type": "Point"
         }
     },
@@ -6097,13 +6097,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6171207",
-            "geometry/coordinates/1": "34.573745",
+            "geometry/coordinates/0": "49.617178",
+            "geometry/coordinates/1": "34.57634",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.573745, 49.6171207],
+            "coordinates": [34.57634, 49.617178],
             "type": "Point"
         }
     },
@@ -6116,13 +6116,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6171207",
-            "geometry/coordinates/1": "34.573745",
+            "geometry/coordinates/0": "49.617074",
+            "geometry/coordinates/1": "34.576308",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.573745, 49.6171207],
+            "coordinates": [34.576308, 49.617074],
             "type": "Point"
         }
     },
@@ -6135,13 +6135,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6171207",
-            "geometry/coordinates/1": "34.573745",
+            "geometry/coordinates/0": "49.617154",
+            "geometry/coordinates/1": "34.576464",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.573745, 49.6171207],
+            "coordinates": [34.576464, 49.617154],
             "type": "Point"
         }
     },
@@ -6154,13 +6154,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5939079",
-            "geometry/coordinates/1": "34.5569938",
+            "geometry/coordinates/0": "49.593761",
+            "geometry/coordinates/1": "34.557275",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5569938, 49.5939079],
+            "coordinates": [34.557275, 49.593761],
             "type": "Point"
         }
     },
@@ -6173,13 +6173,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6022186",
-            "geometry/coordinates/1": "34.568881",
+            "geometry/coordinates/0": "49.602205",
+            "geometry/coordinates/1": "34.571032",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.568881, 49.6022186],
+            "coordinates": [34.571032, 49.602205],
             "type": "Point"
         }
     },
@@ -6192,13 +6192,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6022186",
-            "geometry/coordinates/1": "34.568881",
+            "geometry/coordinates/0": "49.602252",
+            "geometry/coordinates/1": "34.571174",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.568881, 49.6022186],
+            "coordinates": [34.571174, 49.602252],
             "type": "Point"
         }
     },
@@ -6287,13 +6287,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5972336",
-            "geometry/coordinates/1": "34.550883",
+            "geometry/coordinates/0": "49.597409",
+            "geometry/coordinates/1": "34.553086",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.550883, 49.5972336],
+            "coordinates": [34.553086, 49.597409],
             "type": "Point"
         }
     },
@@ -6458,13 +6458,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5875443",
-            "geometry/coordinates/1": "34.5635023",
+            "geometry/coordinates/0": "49.587512",
+            "geometry/coordinates/1": "34.565628",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5635023, 49.5875443],
+            "coordinates": [34.565628, 49.587512],
             "type": "Point"
         }
     },
@@ -6477,13 +6477,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5875443",
-            "geometry/coordinates/1": "34.5635023",
+            "geometry/coordinates/0": "49.587591",
+            "geometry/coordinates/1": "34.565723",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5635023, 49.5875443],
+            "coordinates": [34.565723, 49.587591],
             "type": "Point"
         }
     },
@@ -6496,13 +6496,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6010651",
-            "geometry/coordinates/1": "34.5635695",
+            "geometry/coordinates/0": "49.600997",
+            "geometry/coordinates/1": "34.565885",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5635695, 49.6010651],
+            "coordinates": [34.565885, 49.600997],
             "type": "Point"
         }
     },
@@ -6515,13 +6515,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6010651",
-            "geometry/coordinates/1": "34.5635695",
+            "geometry/coordinates/0": "49.600948",
+            "geometry/coordinates/1": "34.565617",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5635695, 49.6010651],
+            "coordinates": [34.565617, 49.600948],
             "type": "Point"
         }
     },
@@ -6534,13 +6534,13 @@ var servants = [{
             "City": "Поселок Воронина",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5993351",
-            "geometry/coordinates/1": "34.5794164",
+            "geometry/coordinates/0": "49.599331",
+            "geometry/coordinates/1": "34.581640",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5794164, 49.5993351],
+            "coordinates": [34.581640, 49.599331],
             "type": "Point"
         }
     },
@@ -6553,13 +6553,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5972336",
-            "geometry/coordinates/1": "34.550883",
+            "geometry/coordinates/0": "49.597346",
+            "geometry/coordinates/1": "34.553043",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.550883, 49.5972336],
+            "coordinates": [34.553043, 49.597346],
             "type": "Point"
         }
     },
@@ -6591,13 +6591,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6013125",
-            "geometry/coordinates/1": "34.5667619",
+            "geometry/coordinates/0": "49.601322",
+            "geometry/coordinates/1": "34.568900",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5667619, 49.6013125],
+            "coordinates": [34.568900, 49.601322],
             "type": "Point"
         }
     },
@@ -6610,13 +6610,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6013125",
-            "geometry/coordinates/1": "34.5667619",
+            "geometry/coordinates/0": "49.601404",
+            "geometry/coordinates/1": "34.569045",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5667619, 49.6013125],
+            "coordinates": [34.569045, 49.601404],
             "type": "Point"
         }
     },
@@ -6629,13 +6629,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6013125",
-            "geometry/coordinates/1": "34.5667619",
+            "geometry/coordinates/0": "49.601306",
+            "geometry/coordinates/1": "34.569055",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5667619, 49.6013125],
+            "coordinates": [34.569055, 49.601306],
             "type": "Point"
         }
     },
@@ -7028,13 +7028,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5957935",
-            "geometry/coordinates/1": "34.5674433",
+            "geometry/coordinates/0": "49.596039",
+            "geometry/coordinates/1": "34.569662",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5674433, 49.5957935],
+            "coordinates": [34.569662, 49.596039],
             "type": "Point"
         }
     },
@@ -7047,13 +7047,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.593911",
-            "geometry/coordinates/1": "34.5568763",
+            "geometry/coordinates/0": "49.593887",
+            "geometry/coordinates/1": "34.557382",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5568763, 49.593911],
+            "coordinates": [34.557382, 49.593887],
             "type": "Point"
         }
     },
@@ -7084,14 +7084,14 @@ var servants = [{
             "Address": "улица Панфилова 13",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "Index": "-",
-            "geometry/coordinates/0": "49.6006428",
-            "geometry/coordinates/1": "34.5545476",
+            "Index": "-", 
+            "geometry/coordinates/0": "49.600643",
+            "geometry/coordinates/1": "34.556671",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5545476, 49.6006428],
+            "coordinates": [34.556671, 49.600643],
             "type": "Point"
         }
     },
@@ -7142,13 +7142,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5902",
-            "geometry/coordinates/1": "34.56207",
+            "geometry/coordinates/0": "49.590743",
+            "geometry/coordinates/1": "34.561615",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.56207,49.5902],
+            "coordinates": [34.561615,49.590743],
             "type": "Point"
         }
     },
@@ -7161,13 +7161,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5983499",
-            "geometry/coordinates/1": "34.5564048",
+            "geometry/coordinates/0": "49.598473",
+            "geometry/coordinates/1": "34.559249",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5564048, 49.5983499],
+            "coordinates": [34.559249, 49.598473],
             "type": "Point"
         }
     },
@@ -7176,17 +7176,17 @@ var servants = [{
         "properties": {
             "Nr": "376",
             "Name": "ВСТ -  Сандина Надежда Афанасьевна",
-            "Address": "Пл.Независимости 1",
+            "Address": "Майдан Независимости 1",
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5936203",
-            "geometry/coordinates/1": "34.5479559",
+            "geometry/coordinates/0": "49.593348",
+            "geometry/coordinates/1": "34.549384",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5479559, 49.5936203],
+            "coordinates": [34.549384, 49.593348],
             "type": "Point"
         }
     },
@@ -7199,13 +7199,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.608249",
-            "geometry/coordinates/1": "34.5726437",
+            "geometry/coordinates/0": "49.608455",
+            "geometry/coordinates/1": "34.574457",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5726437, 49.608249],
+            "coordinates": [34.574457, 49.608455],
             "type": "Point"
         }
     },
@@ -7218,13 +7218,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.588298",
-            "geometry/coordinates/1": "34.580846",
+            "geometry/coordinates/0": "49.588395",
+            "geometry/coordinates/1": "34.582171",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.580846, 49.588298],
+            "coordinates": [34.582171, 49.588395],
             "type": "Point"
         }
     },
@@ -7256,13 +7256,13 @@ var servants = [{
             "City": "Поселок Червонный Шлях",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6079623",
-            "geometry/coordinates/1": "34.5745827",
+            "geometry/coordinates/0": "49.608005",
+            "geometry/coordinates/1": "34.576874",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5745827, 49.6079623],
+            "coordinates": [34.576874, 49.608005],
             "type": "Point"
         }
     },
@@ -7275,13 +7275,13 @@ var servants = [{
             "City": "Село Яковцы",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.630349",
-            "geometry/coordinates/1": "34.5618246",
+            "geometry/coordinates/0": "49.63038",
+            "geometry/coordinates/1": "34.563117",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5618246, 49.630349],
+            "coordinates": [34.563117, 49.63038],
             "type": "Point"
         }
     },
@@ -7332,13 +7332,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6043045",
-            "geometry/coordinates/1": "34.5619503",
+            "geometry/coordinates/0": "49.604345", 
+            "geometry/coordinates/1": "34.564163",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5619503, 49.6043045],
+            "coordinates": [34.564163, 49.604345],
             "type": "Point"
         }
     },
@@ -7351,13 +7351,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6043045",
-            "geometry/coordinates/1": "34.5619503",
+            "geometry/coordinates/0": "49.604359",
+            "geometry/coordinates/1": "34.564447",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5619503, 49.6043045],
+            "coordinates": [34.564447, 49.604359],
             "type": "Point"
         }
     },
@@ -7370,13 +7370,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6043045",
-            "geometry/coordinates/1": "34.5619503",
+            "geometry/coordinates/0": "49.604487",
+            "geometry/coordinates/1": "34.564313",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5619503, 49.6043045],
+            "coordinates": [34.564313, 49.604487],
             "type": "Point"
         }
     },
@@ -7408,13 +7408,13 @@ var servants = [{
             "City": "Село Яковцы",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6314271",
-            "geometry/coordinates/1": "34.5664331",
+            "geometry/coordinates/0": "49.631432", 
+            "geometry/coordinates/1": "34.568699",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5664331, 49.6314271],
+            "coordinates": [34.568699, 49.631432],
             "type": "Point"
         }
     },
@@ -7427,13 +7427,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6100738",
-            "geometry/coordinates/1": "34.5708998",
+            "geometry/coordinates/0": "49.610107",
+            "geometry/coordinates/1": "34.573155",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5708998, 49.6100738],
+            "coordinates": [34.573155, 49.610107],
             "type": "Point"
         }
     },
@@ -7484,13 +7484,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.604847",
-            "geometry/coordinates/1": "34.5814644",
+            "geometry/coordinates/0": "49.596685",
+            "geometry/coordinates/1": "34.580530",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.5814644, 49.604847],
+            "coordinates": [34.580530, 49.596685],
             "type": "Point"
         }
     },

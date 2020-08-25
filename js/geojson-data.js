@@ -138,17 +138,17 @@ var servants = [{
         "properties": {
             "Nr": "7",
             "Name": "БРА - Берёзкина Светлана Евгеньевна",
-            "Address": "ул. Грэбиновская 16а",
+            "Address": "ул. Грабиновская 16а",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6016678",
-            "geometry/coordinates/1": "34.6112076",
+            "geometry/coordinates/0": "49.601740",
+            "geometry/coordinates/1": "34.611500",
             "Tel": "0508714496\n0635657627\n0681664057",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.6112076, 49.6016678],
+            "coordinates": [34.611500, 49.601740],
             "type": "Point"
         }
     },
@@ -772,14 +772,14 @@ var servants = [{
             "Address": "ул. Магистральная 11 кор.0-1, кв. 1",
             "City": "с. Ивонченцы",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6396075",
-            "geometry/coordinates/1": "34.5260037",
+            "geometry/coordinates/0": "49.639577",
+            "geometry/coordinates/1": "34.528479",
             "Tel": "0661939702\n0677108475",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5260037, 49.6396075],
+            "coordinates": [34.528479, 49.639577],
             "type": "Point"
         }
     },
@@ -1304,14 +1304,14 @@ var servants = [{
             "Address": "ул Грабиновская 16а",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6016678",
-            "geometry/coordinates/1": "34.6092076",
+            "geometry/coordinates/0": "49.601765",
+            "geometry/coordinates/1": "34.611611",
             "Tel": "0509590111",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.6092076, 49.6016678],
+            "coordinates": [34.611611, 49.601765],
             "type": "Point"
         }
     },
@@ -1323,14 +1323,14 @@ var servants = [{
             "Address": "ул Грабиновская 16а",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6016678",
-            "geometry/coordinates/1": "34.6092076",
+            "geometry/coordinates/0": "49.601741",
+            "geometry/coordinates/1": "34.611676",
             "Tel": "0733104656",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.6092076, 49.6016678],
+            "coordinates": [34.611676, 49.601741],
             "type": "Point"
         }
     },
@@ -1342,14 +1342,14 @@ var servants = [{
             "Address": "ул. Грабиновская 16а",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6016678",
-            "geometry/coordinates/1": "34.6092076",
+            "geometry/coordinates/0": "49.601685",
+            "geometry/coordinates/1": "34.611692",
             "Tel": "0502137650",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.6092076, 49.6016678],
+            "coordinates": [34.611692, 49.601685],
             "type": "Point"
         }
     },
@@ -1361,14 +1361,14 @@ var servants = [{
             "Address": "ул. Грабиновская 16а",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6016678",
-            "geometry/coordinates/1": "34.6092076",
+            "geometry/coordinates/0": "49.601685",
+            "geometry/coordinates/1": "34.611552",
             "Tel": "0950806930",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.6092076, 49.6016678],
+            "coordinates": [34.611552, 49.601685],
             "type": "Point"
         }
     },
@@ -1380,14 +1380,14 @@ var servants = [{
             "Address": "ул. Чистопрудная 5",
             "City": "с. Ивонченцы",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.64268",
-            "geometry/coordinates/1": "34.5063647",
+            "geometry/coordinates/0": "49.64246",
+            "geometry/coordinates/1": "34.508051",
             "Tel": "0664951280",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5063647, 49.64268],
+            "coordinates": [34.508051, 49.64246],
             "type": "Point"
         }
     },
@@ -1799,14 +1799,14 @@ var servants = [{
             "Address": "ул. Магистральная 11 кор.0-1, кв. 1",
             "City": "с. Ивонченцы",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6396075",
-            "geometry/coordinates/1": "34.5260037",
+            "geometry/coordinates/0": "49.639566",
+            "geometry/coordinates/1": "34.528624",
             "Tel": "0983506876\n0630745697",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5260037, 49.6396075],
+            "coordinates": [34.528624, 49.639566],
             "type": "Point"
         }
     },
@@ -1875,15 +1875,15 @@ var servants = [{
             "Address": "ул. Медицинская 10, кв. 30",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6389956",
-            "geometry/coordinates/1": "34.5325185",
+            "geometry/coordinates/0": "49.639042",
+            "geometry/coordinates/1": "34.534611",
             "Activity": "отчеты сдает в зал не приходят",
             "Tel": "0999178823",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5325185, 49.6389956],
+            "coordinates": [34.534611, 49.639042],
             "type": "Point"
         }
     },
@@ -1895,15 +1895,15 @@ var servants = [{
             "Address": "ул. Медицинская 10, кв. 30",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "geometry/coordinates/0": "49.6389956",
-            "geometry/coordinates/1": "34.5325185",
+            "geometry/coordinates/0": "49.638979",
+            "geometry/coordinates/1": "34.534873",
             "Activity": "отчеты сдает в зал не приходят",
             "Tel": "0970817383",
             "Congregation": "Браилки",
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.5325185, 49.6389956],
+            "coordinates": [34.534873, 49.638979],
             "type": "Point"
         }
     },
@@ -2145,13 +2145,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36015",
-            "geometry/coordinates/0": "49.6004403",
-            "geometry/coordinates/1": "34.6024492",
+            "geometry/coordinates/0": "49.600517",
+            "geometry/coordinates/1": "34.604589",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.6024492, 49.6004403],
+            "coordinates": [34.604589, 49.600517],
             "type": "Point"
         }
     },
@@ -2164,13 +2164,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36015",
-            "geometry/coordinates/0": "49.6004403",
-            "geometry/coordinates/1": "34.6024492",
+            "geometry/coordinates/0": "49.600514",
+            "geometry/coordinates/1": "34.604729",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.6024492, 49.6004403],
+            "coordinates": [34.604729, 49.600514],
             "type": "Point"
         }
     },
@@ -2183,13 +2183,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36015",
-            "geometry/coordinates/0": "49.6004403",
-            "geometry/coordinates/1": "34.6024492",
+            "geometry/coordinates/0": "49.600521",
+            "geometry/coordinates/1": "34.604648",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.6024492, 49.6004403],
+            "coordinates": [34.604648, 49.600521],
             "type": "Point"
         }
     },
@@ -4040,13 +4040,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36015",
-            "geometry/coordinates/0": "49.6056288",
-            "geometry/coordinates/1": "34.6161922",
+            "geometry/coordinates/0": "49.605781",
+            "geometry/coordinates/1": "34.618349",
             "Congregation": "Центральное",
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.6161922, 49.6056288],
+            "coordinates": [34.618349, 49.605781],
             "type": "Point"
         }
     },
@@ -4499,13 +4499,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.660779",
-            "geometry/coordinates/1": "34.5301057",
+            "geometry/coordinates/0": "49.660847",
+            "geometry/coordinates/1": "34.532556",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5301057, 49.660779],
+            "coordinates": [34.532556, 49.660847],
             "type": "Point"
         }
     },
@@ -4533,17 +4533,17 @@ var servants = [{
         "properties": {
             "Nr": "237",
             "Name": "ЮРО - Двужилова Елена Владимировна",
-            "Address": "Ул. Грабиновская 226",
+            "Address": "Ул. Грабиновская 22б",
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6026372",
-            "geometry/coordinates/1": "34.611126",
+            "geometry/coordinates/0": "49.602217",
+            "geometry/coordinates/1": "34.612668",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.611126, 49.6026372],
+            "coordinates": [34.612668, 49.602217],
             "type": "Point"
         }
     },
@@ -4594,13 +4594,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6419727",
-            "geometry/coordinates/1": "34.514569",
+            "geometry/coordinates/0": "49.642078",
+            "geometry/coordinates/1": "34.517123",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.514569, 49.6419727],
+            "coordinates": [34.517123, 49.642078],
             "type": "Point"
         }
     },
@@ -4746,13 +4746,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6572322",
-            "geometry/coordinates/1": "34.5321886",
+            "geometry/coordinates/0": "49.657162",
+            "geometry/coordinates/1": "34.534568",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5321886, 49.6572322],
+            "coordinates": [34.534568, 49.657162],
             "type": "Point"
         }
     },
@@ -4765,13 +4765,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6572322",
-            "geometry/coordinates/1": "34.5321886",
+            "geometry/coordinates/0": "49.657134",
+            "geometry/coordinates/1": "34.534771",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5321886, 49.6572322],
+            "coordinates": [34.534771, 49.657134],
             "type": "Point"
         }
     },
@@ -4784,13 +4784,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6572322",
-            "geometry/coordinates/1": "34.5321886",
+            "geometry/coordinates/0": "49.657312",
+            "geometry/coordinates/1": "34.534766",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5321886, 49.6572322],
+            "coordinates": [34.534766, 49.657312],
             "type": "Point"
         }
     },
@@ -5032,13 +5032,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6538511",
-            "geometry/coordinates/1": "34.5295204",
+            "geometry/coordinates/0": "49.65378",
+            "geometry/coordinates/1": "34.532669",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5295204, 49.6538511],
+            "coordinates": [34.532669, 49.65378],
             "type": "Point"
         }
     },
@@ -5431,13 +5431,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6614851",
-            "geometry/coordinates/1": "34.5353551",
+            "geometry/coordinates/0": "49.661479",
+            "geometry/coordinates/1": "34.539181",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5353551, 49.6614851],
+            "coordinates": [34.539181, 49.661479],
             "type": "Point"
         }
     },
@@ -5450,13 +5450,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6614851",
-            "geometry/coordinates/1": "34.5353551",
+            "geometry/coordinates/0": "49.661489",
+            "geometry/coordinates/1": "34.539374",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5353551, 49.6614851],
+            "coordinates": [34.539374, 49.661489],
             "type": "Point"
         }
     },
@@ -5469,13 +5469,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6614851",
-            "geometry/coordinates/1": "34.5353551",
+            "geometry/coordinates/0": "49.661475",
+            "geometry/coordinates/1": "34.539508",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5353551, 49.6614851],
+            "coordinates": [34.539508, 49.661475],
             "type": "Point"
         }
     },
@@ -5488,13 +5488,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6616488",
-            "geometry/coordinates/1": "34.5147109",
+            "geometry/coordinates/0": "49.661767",
+            "geometry/coordinates/1": "34.518603",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5147109, 49.6616488],
+            "coordinates": [34.518603, 49.661767],
             "type": "Point"
         }
     },
@@ -5564,13 +5564,13 @@ var servants = [{
             "City": "С. Тахтаулово",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6580931",
-            "geometry/coordinates/1": "34.5133434",
+            "geometry/coordinates/0": "49.667114",
+            "geometry/coordinates/1": "34.508379",
             "Congregation": "Юровка",
             "marker-color": "green",
         },
         "geometry": {
-            "coordinates": [34.5133434, 49.6580931],
+            "coordinates": [34.508379, 49.667114],
             "type": "Point"
         }
     },
@@ -5888,13 +5888,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.6020604",
-            "geometry/coordinates/1": "34.6102449",
+            "geometry/coordinates/0": "49.602116",
+            "geometry/coordinates/1": "34.612454",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.6102449, 49.6020604],
+            "coordinates": [34.612454, 49.602116],
             "type": "Point"
         }
     },
@@ -6325,13 +6325,13 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5967835",
-            "geometry/coordinates/1": "34.6042712",
+            "geometry/coordinates/0": "49.596842",
+            "geometry/coordinates/1": "34.60651",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.6042712, 49.5967835],
+            "coordinates": [34.60651, 49.596842],
             "type": "Point"
         }
     },
@@ -7066,13 +7066,13 @@ var servants = [{
             "City": "Село Макуховка",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.5980053",
-            "geometry/coordinates/1": "34.628873",
+            "geometry/coordinates/0": "49.597527",
+            "geometry/coordinates/1": "34.632457",
             "Congregation": "Восточное",
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.628873, 49.5980053],
+            "coordinates": [34.632457, 49.597527],
             "type": "Point"
         }
     },

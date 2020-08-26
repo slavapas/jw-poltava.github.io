@@ -4,3 +4,7 @@ body,
     height: 100%;
     width: 100%;
 }
+
+img.leaflet-marker-icon.leaflet-zoom-animated.leaflet-interactive{
+    width: 17px !important;
+}

@@ -20,21 +20,21 @@
 
 // ];
 var servants = [{
-    "type": "Feature",
-    "properties": {
-        "Nr": "1",
-        "Name": "БРА - Адамец Энна Григорьевна",
-        "Address": "ул. Баленка 18, кв. 18",
-        "City": "Полтава",
-        "Region": "Полтавская Область",
-        "geometry/coordinates/0": "49.60243",
-        "geometry/coordinates/1": "34.50014",
-        "Tel": "0996787493",
-        "Congregation": "Браилки",
-        "pin": "marker-icon_blue_dark.png",
-    },
-    "geometry": {
-        "coordinates": [34.50014, 49.60243 ],
+        "type": "Feature",
+        "properties": {
+            "Nr": "1",
+            "Name": "БРА - Адамец Энна Григорьевна",
+            "Address": "ул. Баленка 18, кв. 18",
+            "City": "Полтава",
+            "Region": "Полтавская Область",
+            "geometry/coordinates/0": "49.60243",
+            "geometry/coordinates/1": "34.50014",
+            "Tel": "0996787493",
+            "Congregation": "Браилки",
+            "pin": "marker-icon_blue_dark.png",
+        },
+        "geometry": {
+            "coordinates": [34.50014, 49.60243],
             "type": "Point"
         }
     },
@@ -1292,7 +1292,7 @@ var servants = [{
             "marker-color": "blue",
         },
         "geometry": {
-            "coordinates": [34.52872, 49.598803,],
+            "coordinates": [34.52872, 49.598803, ],
             "type": "Point"
         }
     },
@@ -3175,7 +3175,7 @@ var servants = [{
         "properties": {
             "Nr": "166",
             "Name": "ЦТР - Кущ Ирина Николаевна",
-            "Address": "улица Покровская, 33",    
+            "Address": "улица Покровская, 33",
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "36003",
@@ -3855,7 +3855,7 @@ var servants = [{
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [334.580251, 49.541885],
+            "coordinates": [34.580251, 49.541885],
             "type": "Point"
         }
     },
@@ -4217,7 +4217,7 @@ var servants = [{
             "Activity": "не приходят в зал",
             "Congregation": "Центральное",
             "marker-color": "red",
-        }, 
+        },
         "geometry": {
             "coordinates": [34.8349, 49.462044],
             "type": "Point"
@@ -7084,7 +7084,7 @@ var servants = [{
             "Address": "улица Панфилова 13",
             "City": "Полтава",
             "Region": "Полтавская Область",
-            "Index": "-", 
+            "Index": "-",
             "geometry/coordinates/0": "49.600643",
             "geometry/coordinates/1": "34.556671",
             "Congregation": "Восточное",
@@ -7148,7 +7148,7 @@ var servants = [{
             "marker-color": "yellow",
         },
         "geometry": {
-            "coordinates": [34.561615,49.590743],
+            "coordinates": [34.561615, 49.590743],
             "type": "Point"
         }
     },
@@ -7332,7 +7332,7 @@ var servants = [{
             "City": "Полтава",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.604345", 
+            "geometry/coordinates/0": "49.604345",
             "geometry/coordinates/1": "34.564163",
             "Congregation": "Восточное",
             "marker-color": "yellow",
@@ -7408,7 +7408,7 @@ var servants = [{
             "City": "Село Яковцы",
             "Region": "Полтавская Область",
             "Index": "-",
-            "geometry/coordinates/0": "49.631432", 
+            "geometry/coordinates/0": "49.631432",
             "geometry/coordinates/1": "34.568699",
             "Congregation": "Восточное",
             "marker-color": "yellow",
@@ -7550,7 +7550,7 @@ var servants = [{
             "coordinates": [34.584585, 49.576306],
             "type": "Point"
         }
-    },//=========== Чутово группа ================
+    }, //=========== Чутово группа ================
     {
         "type": "Feature",
         "properties": {
@@ -7607,7 +7607,7 @@ var servants = [{
             "coordinates": [34.520877, 49.555148],
             "type": "Point"
         },
-        
+
     },
     {
         "type": "Feature",
@@ -7627,8 +7627,7 @@ var servants = [{
             "coordinates": [35.053209, 49.829162],
             "type": "Point"
         }
-    }
-    ,//=============== Скороходово группа  ================
+    }, //=============== Скороходово группа  ================
     {
         "type": "Feature",
         "properties": {

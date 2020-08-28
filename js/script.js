@@ -405,7 +405,7 @@ L.geoJSON(servants, {
     pointToLayer: function (feature, latlng) {
         var colors = {
             'Браилки': 'green',
-            'Центральное': 'orange',
+            'Центральное': 'blue',
             'Юровка': 'red',
             'Восточное': 'black',
             

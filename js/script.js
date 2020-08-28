@@ -371,3 +371,18 @@ L.geoJSON(servants, {
 // }
 
 // map.on('click', onMapClick);
+
+
+
+
+
+// --------------------------------------------
+// add slide panel legend
+//---------------------------------------------
+$(document).ready(function() {
+    $("#form1").addClass("hide");
+    $("#formButton").click(function() {
+      $("#form1").toggle();
+    });
+  });
+  

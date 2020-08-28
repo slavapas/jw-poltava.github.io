@@ -403,13 +403,22 @@ L.geoJSON(servants, {
     onEachFeature: styleGeoJson,
 
     pointToLayer: function (feature, latlng) {
+        var colors = {
+            'Браилки': 'green',
+            'Центральное': 'orange',
+            'Юровка': 'red',
+            'Восточное': 'black',
+            
+        }
+       
+       
         return L.circleMarker(latlng, {
             radius: 8,
-            fillColor: "blue",
-            color: "red",
+            fillColor: colors[feature.properties.Congregation],
+            color: colors[feature.properties.Congregation],
             weight: 1,
             opacity: 1,
-            fillOpacity: 0.5
+            fillOpacity: 0.4,
         });
     }
 }).addTo(map);

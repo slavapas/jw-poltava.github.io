@@ -2551,7 +2551,7 @@ var servants = [{
             "marker-color": "red",
         },
         "geometry": {
-            "coordinates": [34.559678, 49.588027],
+            "coordinates": [34.559738, 49.588097],
             "type": "Point"
         }
     },

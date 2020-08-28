@@ -11,66 +11,7 @@ var spiderbee = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
 }).addTo(map);
 
 
-// var geojsonMarkerOptions = {
-//     radius: 8,
-//     fillColor: "#ff7800",
-//     color: "#000",
-//     weight: 1,
-//     opacity: 1,
-//     fillOpacity: 0.8
-// };
-
-// L.geoJSON(someGeojsonFeature, {
-//     pointToLayer: function (feature, latlng) {
-//         return L.circleMarker(latlng, geojsonMarkerOptions);
-//     }
-// }).addTo(map);
-
-
-//add some changes to onEachFeature function  
-// function styleGeoJson(feature, layer) {
-//     var popupContent = "<b>Номер: </b>" + feature.properties.Nr + "</br><b>Имя: </b> " + feature.properties.Name + "</br><b>Адресс: </b>" + feature.properties.Address + "</br><b>Город: </b>" + feature.properties.City + "</br><b>Собрание: </b>" + feature.properties.Congregation + "</br><b>Телефон: </b>" + feature.properties.Tel;
-
-//     if (feature.properties && feature.properties.popupContent) {
-//         popupContent += feature.properties.popupContent;
-//     }
-
-//     // call popup
-//     layer.bindPopup(popupContent);
-//     //call custom pins
-//    // layer.setIcon(teardrop);
-// }
-
-
-
-// //for each feature for servants run the function define above - styleGeoJson
-// L.geoJson(servants, {
-//         onEachFeature: styleGeoJson,
-
-//     })
-//     .addTo(map);
-
-
-// L.geoJSON(servants, {
-
-//     style: function (feature) {
-//         return feature.properties && feature.properties.style;
-//     },
-
-//     onEachFeature: onEachFeature,
-
-//     pointToLayer: function (feature, latlng) {
-//         return L.circleMarker(latlng, {
-//             radius: 8,
-//             fillColor: "#ff7800",
-//             color: "#000",
-//             weight: 1,
-//             opacity: 1,
-//             fillOpacity: 0.8
-//         });
-//     }
-// }).addTo(map);
-
+//
 
 ///// add Polygon
 // Зона 2
@@ -91,10 +32,14 @@ var latlngs1 = [
     [49.583116, 34.560077],
     [49.586956, 34.552265] // Небесной сотни /- Европейской 
 ];
+
+
 L.polygon(latlngs1, {
     color: 'green',
     fillOpacity: 0.1
 }).bindPopup('Зона 1 - 71').addTo(map);
+
+
 
 // Зона 2
 var latlngs2 = [
@@ -114,6 +59,8 @@ var latlngs2 = [
     [49.583116, 34.560077],
     [49.586956, 34.552265] // Небесной Сотни /- Миру
 ];
+
+
 L.polygon(latlngs2, {
     color: 'blue',
     fillOpacity: 0.1
@@ -142,6 +89,8 @@ var latlngs3 = [
 
 
 ];
+
+
 L.polygon(latlngs3, {
     color: 'grey',
     fillOpacity: 0.1
@@ -167,6 +116,8 @@ var latlngs4 = [
 
 
 ];
+
+
 L.polygon(latlngs4, {
     color: 'brown',
     fillOpacity: 0.1
@@ -192,6 +143,8 @@ var latlngs5 = [
 
 
 ];
+
+
 L.polygon(latlngs5, {
     color: 'green',
     fillOpacity: 0.1
@@ -218,6 +171,8 @@ var latlngs8 = [
 
 
 ];
+
+
 L.polygon(latlngs8, {
     color: 'red',
     fillOpacity: 0.1
@@ -239,12 +194,13 @@ var latlngs7 = [
     [49.58681, 34.526752], //
     [49.596213, 34.537255], //
 
-    //
-    //
-    //
+  
 
 
 ];
+
+
+
 L.polygon(latlngs7, {
     color: 'black',
     fillOpacity: 0.1
@@ -272,15 +228,9 @@ var latlngs6 = [
     [49.595399, 34.514966], //
     [49.599697, 34.514923], //
     [49.599578, 34.529933], //
-
-
-
-    //
-    //
-    //
-
-
 ];
+
+
 L.polygon(latlngs6, {
     color: 'blue',
     fillOpacity: 0.1
@@ -294,6 +244,12 @@ var circleMarker = L.circleMarker(latLngCircle, {
     radius: 5
 }).bindPopup('111').addTo(map);
 
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////
 // --------- Leaflet Draw Plugin------------- //
 var editableLayers = new L.FeatureGroup();
 map.addLayer(editableLayers);
@@ -353,36 +309,14 @@ map.on(L.Draw.Event.CREATED, function (e) {
 
     editableLayers.addLayer(layer);
 });
-// var place = L.marker([51.5, -0.09]).addTo(map)
-//     .bindPopup("<b>Hello world!</b><br />I am a popup.");
-
-
-// var circle = L.circle([51.508, -0.11], 500, {
-//     color: 'red',
-//     fillColor: '#f03',
-//     fillOpacity: 0.2
-// }).addTo(map).bindPopup("I am a circle.");
-
-// L.polygon([
-//     [51.509, -0.08],
-//     [51.503, -0.06],
-//     [51.51, -0.047]
-// ]).addTo(map).bindPopup("I am a polygon.");
 
 
 
-//// the code bellow will help you to get any coordinates on map
-// var popup = L.popup();
 
-// function onMapClick(e) {
-//     popup
-//         .setLatLng(e.latlng)
-//         .setContent("You clicked the map at " + e.latlng.toString())
-//         .openOn(map);
-// }
 
-// map.on('click', onMapClick);
-
+/////-------------------------------------------------
+///        insert circleMarker                  ///
+/////-------------------------------------------------
 function styleGeoJson(feature, layer) {
     var popupContent = "<b>Номер: </b>" + feature.properties.Nr + "</br><b>Имя: </b> " + feature.properties.Name + "</br><b>Адресс: </b>" + feature.properties.Address + "</br><b>Город: </b>" + feature.properties.City + "</br><b>Собрание: </b>" + feature.properties.Congregation + "</br><b>Телефон: </b>" + feature.properties.Tel;
 
@@ -413,7 +347,7 @@ L.geoJSON(servants, {
        
        
         return L.circleMarker(latlng, {
-            radius: 8,
+            radius: 7,
             fillColor: colors[feature.properties.Congregation],
             color: colors[feature.properties.Congregation],
             weight: 1,
@@ -422,3 +356,18 @@ L.geoJSON(servants, {
         });
     }
 }).addTo(map);
+
+
+/////-------------------------------------------------
+//// the code bellow will help you to get any coordinates on map
+/////-------------------------------------------------
+// var popup = L.popup();
+
+// function onMapClick(e) {
+//     popup
+//         .setLatLng(e.latlng)
+//         .setContent("You clicked the map at " + e.latlng.toString())
+//         .openOn(map);
+// }
+
+// map.on('click', onMapClick);

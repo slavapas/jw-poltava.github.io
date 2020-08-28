@@ -11,42 +11,65 @@ var spiderbee = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
 }).addTo(map);
 
 
+// var geojsonMarkerOptions = {
+//     radius: 8,
+//     fillColor: "#ff7800",
+//     color: "#000",
+//     weight: 1,
+//     opacity: 1,
+//     fillOpacity: 0.8
+// };
 
-// add your own pin
-var teardrop = L.icon({
-    iconUrl: 'images/marker-icon_red-1.png',
-    //iconUrl: 'images/marker-cian.png',
-    iconSize: [19, 29],
-    iconAnchor: [8, 29],
-    popupAnchor: [1, -25],
-    //shadowUrl: 'my-icon-shadow.png',
-    //shadowSize: [68, 95],
-    //shadowAnchor: [22, 94]
-});
+// L.geoJSON(someGeojsonFeature, {
+//     pointToLayer: function (feature, latlng) {
+//         return L.circleMarker(latlng, geojsonMarkerOptions);
+//     }
+// }).addTo(map);
+
 
 //add some changes to onEachFeature function  
-function styleGeoJson(feature, layer) {
-    var popupContent = "<b>Номер: </b>" + feature.properties.Nr + "</br><b>Имя: </b> " + feature.properties.Name + "</br><b>Адресс: </b>" + feature.properties.Address + "</br><b>Город: </b>" + feature.properties.City + "</br><b>Собрание: </b>" + feature.properties.Congregation + "</br><b>Телефон: </b>" + feature.properties.Tel;
+// function styleGeoJson(feature, layer) {
+//     var popupContent = "<b>Номер: </b>" + feature.properties.Nr + "</br><b>Имя: </b> " + feature.properties.Name + "</br><b>Адресс: </b>" + feature.properties.Address + "</br><b>Город: </b>" + feature.properties.City + "</br><b>Собрание: </b>" + feature.properties.Congregation + "</br><b>Телефон: </b>" + feature.properties.Tel;
 
-    if (feature.properties && feature.properties.popupContent) {
-        popupContent += feature.properties.popupContent;
-    }
+//     if (feature.properties && feature.properties.popupContent) {
+//         popupContent += feature.properties.popupContent;
+//     }
 
-    // call popup
-    layer.bindPopup(popupContent);
-    //call custom pins
-    layer.setIcon(teardrop);
-}
+//     // call popup
+//     layer.bindPopup(popupContent);
+//     //call custom pins
+//    // layer.setIcon(teardrop);
+// }
 
 
 
-//for each feature for servants run the function define above - styleGeoJson
-L.geoJson(servants, {
-        onEachFeature: styleGeoJson,
+// //for each feature for servants run the function define above - styleGeoJson
+// L.geoJson(servants, {
+//         onEachFeature: styleGeoJson,
 
-    })
-    .addTo(map);
+//     })
+//     .addTo(map);
 
+
+// L.geoJSON(servants, {
+
+//     style: function (feature) {
+//         return feature.properties && feature.properties.style;
+//     },
+
+//     onEachFeature: onEachFeature,
+
+//     pointToLayer: function (feature, latlng) {
+//         return L.circleMarker(latlng, {
+//             radius: 8,
+//             fillColor: "#ff7800",
+//             color: "#000",
+//             weight: 1,
+//             opacity: 1,
+//             fillOpacity: 0.8
+//         });
+//     }
+// }).addTo(map);
 
 
 ///// add Polygon
@@ -75,21 +98,21 @@ L.polygon(latlngs1, {
 
 // Зона 2
 var latlngs2 = [
-    [49.587026, 34.552195],//Европейской /- Монастырской
-    [49.590517, 34.556015],// 
-    [49.594495, 34.572301],//
-    [49.599975, 34.57552],//
+    [49.587026, 34.552195], //Европейской /- Монастырской
+    [49.590517, 34.556015], // 
+    [49.594495, 34.572301], //
+    [49.599975, 34.57552], //
     [49.601226, 34.581699], //
-    [49.600893, 34.585218],//
-    [49.586372, 34.584961],//
+    [49.600893, 34.585218], //
+    [49.586372, 34.584961], //
     [49.583617, 34.584403],
     //[49.566141, 34.586259],//************ */
     [49.575715, 34.586431],
-    [49.575715, 34.584886], 
+    [49.575715, 34.584886],
     [49.580223, 34.56952],
     [49.58089, 34.565142],
     [49.583116, 34.560077],
-    [49.586956, 34.552265]  // Небесной Сотни /- Миру
+    [49.586956, 34.552265] // Небесной Сотни /- Миру
 ];
 L.polygon(latlngs2, {
     color: 'blue',
@@ -98,26 +121,26 @@ L.polygon(latlngs2, {
 
 // Зона 3
 var latlngs3 = [
-    [49.587026, 34.552195],//Европейской /- Монастырской
-    [49.590322, 34.549727],// 
-    [49.59711, 34.535394],//
-    [49.603785, 34.539471],//
-    [49.604314, 34.538183],//
-    [49.605704, 34.538505],//
+    [49.587026, 34.552195], //Европейской /- Монастырской
+    [49.590322, 34.549727], // 
+    [49.59711, 34.535394], //
+    [49.603785, 34.539471], //
+    [49.604314, 34.538183], //
+    [49.605704, 34.538505], //
     [49.606983, 34.543591], //
     //[49.618051, 34.567494],//
     //[49.623305, 34.555564],//
-    [49.632896, 34.561186],//
-    [49.634286, 34.569941],//
+    [49.632896, 34.561186], //
+    [49.634286, 34.569941], //
 
-    [49.619552, 34.577193],//
+    [49.619552, 34.577193], //
     [49.600907, 34.58524],
     [49.601237, 34.58171],
     [49.599992, 34.575514],
     [49.594495, 34.572274],
     [49.590524, 34.556009]
-    
-  
+
+
 ];
 L.polygon(latlngs3, {
     color: 'grey',
@@ -129,20 +152,20 @@ L.polygon(latlngs3, {
 
 // Зона 4
 var latlngs4 = [
-    [49.597113, 34.535378],//Шведская /- Соборности
-    [49.59937, 34.530405],// 
-    [49.614971, 34.529868],// 
-    [49.63291, 34.561175],// 
+    [49.597113, 34.535378], //Шведская /- Соборности
+    [49.59937, 34.530405], // 
+    [49.614971, 34.529868], // 
+    [49.63291, 34.561175], // 
     //[49.607001, 34.543591],// 
-   // [49.606983, 34.543591], //
+    // [49.606983, 34.543591], //
     [49.606983, 34.543591], //
     [49.606994, 34.543564],
     [49.605704, 34.538478],
     [49.604303, 34.538167],
     [49.603785, 34.539455],
-    
-   
-  
+
+
+
 ];
 L.polygon(latlngs4, {
     color: 'brown',
@@ -154,20 +177,20 @@ L.polygon(latlngs4, {
 ////////////////////
 // Зона 5
 var latlngs5 = [
-    [49.599589, 34.530383],//Зиньковская /- Берюзова
+    [49.599589, 34.530383], //Зиньковская /- Берюзова
     //[49.590319, 34.549711],// 
-    [49.599836, 34.497478],// 
-    [49.59946, 34.49279],// 
-    [49.599356, 34.490322],// 
-    [49.599808, 34.483842],// 
-    [49.600183, 34.469304],// 
-    [49.604953, 34.469476],// 
-    [49.604929, 34.468451],// 
-    [49.607043, 34.468285],// 
-    [49.609848, 34.470634],// 
-    [49.614961, 34.529842],// 
-    
-  
+    [49.599836, 34.497478], // 
+    [49.59946, 34.49279], // 
+    [49.599356, 34.490322], // 
+    [49.599808, 34.483842], // 
+    [49.600183, 34.469304], // 
+    [49.604953, 34.469476], // 
+    [49.604929, 34.468451], // 
+    [49.607043, 34.468285], // 
+    [49.609848, 34.470634], // 
+    [49.614961, 34.529842], // 
+
+
 ];
 L.polygon(latlngs5, {
     color: 'green',
@@ -177,23 +200,23 @@ L.polygon(latlngs5, {
 
 // Зона 8
 var latlngs8 = [
-    [49.587026, 34.552195],//Европейской /- Монастырской
-    [49.590312, 34.549722],//
-    [49.59364, 34.542695],//
-    [49.592221, 34.541096],//
-    [49.592082, 34.540957],//
-    [49.587958, 34.538698],//
-    [49.584229, 34.537733],//
-    [49.58313, 34.537164],//
-    [49.580049, 34.536842],//
-    [49.575436, 34.536885],//
-    [49.580501, 34.544996],//
-    [49.581572, 34.546353],//
-//
-//
-//
+    [49.587026, 34.552195], //Европейской /- Монастырской
+    [49.590312, 34.549722], //
+    [49.59364, 34.542695], //
+    [49.592221, 34.541096], //
+    [49.592082, 34.540957], //
+    [49.587958, 34.538698], //
+    [49.584229, 34.537733], //
+    [49.58313, 34.537164], //
+    [49.580049, 34.536842], //
+    [49.575436, 34.536885], //
+    [49.580501, 34.544996], //
+    [49.581572, 34.546353], //
+    //
+    //
+    //
 
-  
+
 ];
 L.polygon(latlngs8, {
     color: 'red',
@@ -203,24 +226,24 @@ L.polygon(latlngs8, {
 
 // Зона 7
 var latlngs7 = [
-    [49.59364, 34.542695],//
-    [49.592221, 34.541096],//
-    [49.592082, 34.540957],//
-    [49.587958, 34.538698],//
-        
-    [49.584167, 34.53769],//
-    [49.583902, 34.537539],//
-    [49.585509, 34.530834],//
-    [49.586393, 34.528388],//
-    
-    [49.58681, 34.526752],//
-    [49.596213, 34.537255],//
- 
-//
-//
-//
+    [49.59364, 34.542695], //
+    [49.592221, 34.541096], //
+    [49.592082, 34.540957], //
+    [49.587958, 34.538698], //
 
-  
+    [49.584167, 34.53769], //
+    [49.583902, 34.537539], //
+    [49.585509, 34.530834], //
+    [49.586393, 34.528388], //
+
+    [49.58681, 34.526752], //
+    [49.596213, 34.537255], //
+
+    //
+    //
+    //
+
+
 ];
 L.polygon(latlngs7, {
     color: 'black',
@@ -231,32 +254,32 @@ L.polygon(latlngs7, {
 
 // Зона 6
 var latlngs6 = [
-    [49.59622, 34.53725],//
-    [49.586824, 34.52673],//
-    [49.584424, 34.524643],//
-    [49.583993, 34.522347],//
-    [49.580974, 34.517519],//
+    [49.59622, 34.53725], //
+    [49.586824, 34.52673], //
+    [49.584424, 34.524643], //
+    [49.583993, 34.522347], //
+    [49.580974, 34.517519], //
 
-    [49.580974, 34.517519],//
-    [49.584619, 34.51061],//
-    [49.586274, 34.509065],//
-    [49.590183, 34.50501],//
-    [49.590524, 34.505546],//
-    [49.592214, 34.505407],//
+    [49.580974, 34.517519], //
+    [49.584619, 34.51061], //
+    [49.586274, 34.509065], //
+    [49.590183, 34.50501], //
+    [49.590524, 34.505546], //
+    [49.592214, 34.505407], //
 
-    [49.592137, 34.514558],//
-    [49.595399, 34.514966],//
-    [49.595399, 34.514966],//
-    [49.599697, 34.514923],//
-    [49.599578, 34.529933],//
-  
+    [49.592137, 34.514558], //
+    [49.595399, 34.514966], //
+    [49.595399, 34.514966], //
+    [49.599697, 34.514923], //
+    [49.599578, 34.529933], //
 
- 
-//
-//
-//
 
-  
+
+    //
+    //
+    //
+
+
 ];
 L.polygon(latlngs6, {
     color: 'blue',
@@ -359,3 +382,34 @@ map.on(L.Draw.Event.CREATED, function (e) {
 // }
 
 // map.on('click', onMapClick);
+
+function styleGeoJson(feature, layer) {
+    var popupContent = "<b>Номер: </b>" + feature.properties.Nr + "</br><b>Имя: </b> " + feature.properties.Name + "</br><b>Адресс: </b>" + feature.properties.Address + "</br><b>Город: </b>" + feature.properties.City + "</br><b>Собрание: </b>" + feature.properties.Congregation + "</br><b>Телефон: </b>" + feature.properties.Tel;
+
+    if (feature.properties && feature.properties.popupContent) {
+        popupContent += feature.properties.popupContent;
+    }
+
+    layer.bindPopup(popupContent);
+}
+
+///////////////////////////////////
+L.geoJSON(servants, {
+
+    style: function (feature) {
+        return feature.properties && feature.properties.style;
+    },
+
+    onEachFeature: styleGeoJson,
+
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, {
+            radius: 8,
+            fillColor: "blue",
+            color: "red",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 0.5
+        });
+    }
+}).addTo(map);
